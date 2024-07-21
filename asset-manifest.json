@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/routeEvent/static/css/main.098abc91.css",
+    "main.js": "/routeEvent/static/js/main.5c08d24d.js",
+    "index.html": "/routeEvent/index.html",
+    "main.098abc91.css.map": "/routeEvent/static/css/main.098abc91.css.map",
+    "main.5c08d24d.js.map": "/routeEvent/static/js/main.5c08d24d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.098abc91.css",
+    "static/js/main.5c08d24d.js"
+  ]
+}
